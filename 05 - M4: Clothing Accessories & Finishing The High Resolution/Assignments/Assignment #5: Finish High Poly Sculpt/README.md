@@ -1,0 +1,15 @@
+# Assignment #5: Finish High Poly Sculpt
+
+<p><span style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;">Your next assignment is as follows:</span></p>
+<ul>
+<li><strong>Finish Your Characters High Poly Costume with Accessories&nbsp;</strong></li>
+</ul>
+<p>Remember, mentors rule. You’ve picked your concept with Your mentor.&nbsp; The content is there to support you but you are in the arena now.&nbsp; It's not time to learn. It's time to execute at a high level.</p>
+<p>If you’ve not completed the costume from last week then continue on that assignment before starting this. If you feel like you’re falling behind, don’t worry that’s built into the process and your job is to work at your pace with your mentor.</p>
+<h2>Lessons</h2>
+<ul>
+<li><a class="inline_disabled" href="https://www.vertexschool.com/products/character-creation-for-games-in-unreal-engine-5-program-access/categories/2151037704" target="_blank">Module 5</a></li>
+</ul>
+<h3>How To Submit</h3>
+<p>Please submit your assignment on syncsketch and share a link here.</p>
+<p>&nbsp;</p>
